@@ -1,6 +1,6 @@
 # SenNetSingleCellRNAseqDemo
 
-This repository demonstrates a single-cell RNA-seq (scRNA-seq) pipeline applied to the SenNet dataset. The pipeline processes raw scRNA-seq datasets (downloaded scRNA-seq data should be put in the `data` folder) through a seven-step workflow to compare different methods of measuring transcriptional noise. The following datasets were used by this pipeline to generate Figure 2: [SNT246.PGHH.774](https://data.sennetconsortium.org/dataset?uuid=0229c815670d044713bb121d7ed536f6), [SNT449.GRWG.598](https://data.sennetconsortium.org/dataset?uuid=111a7b6cbaee55195fa6e76ddaa213fd), and ;[SNT397.SPGW.436](https://data.sennetconsortium.org/dataset?uuid=0c70552e21f1833533855fc6d22ecdd6).
+This repository demonstrates a single-cell RNA-seq (scRNA-seq) pipeline applied to the SenNet dataset. The pipeline processes raw scRNA-seq datasets (downloaded scRNA-seq data should be put in the `data` folder) through a seven-step workflow to compare different methods of measuring transcriptional noise. The following datasets were used by this pipeline to generate Figure 2: [SNT246.PGHH.774](https://data.sennetconsortium.org/dataset?uuid=0229c815670d044713bb121d7ed536f6), [SNT449.GRWG.598](https://data.sennetconsortium.org/dataset?uuid=111a7b6cbaee55195fa6e76ddaa213fd), and [SNT397.SPGW.436](https://data.sennetconsortium.org/dataset?uuid=0c70552e21f1833533855fc6d22ecdd6).
 
 #### Pipeline Steps:
 *   Step 1: Cleaning
